@@ -1,0 +1,10 @@
+# node
+node_modules/
+dist/
+.env
+.vscode/
+
+# python
+__pycache__/
+*.pyc
+.venv/
