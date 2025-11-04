@@ -4,6 +4,10 @@ dist/
 .env
 .vscode/
 
+# Next.js build artifacts
+.next/
+out/
+
 # python
 __pycache__/
 *.pyc
